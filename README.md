@@ -1,5 +1,6 @@
 ## Hi there 👋
 Heres the command to my winUTIL panel
+"irm "https://christitus.com/win" | iex"
 
 <!--
 **glokkzy/Glokkzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
